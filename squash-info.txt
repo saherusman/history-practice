@@ -1,0 +1,2 @@
+This branch demonstrates squash merging.
+GitHub will combine multiple commits into one.
