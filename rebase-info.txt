@@ -1,1 +1,2 @@
 This branch demonstrates rebase merging.
+GitHub will replay commits individually onto main.
