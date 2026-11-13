@@ -1,0 +1,2 @@
+This branch demonstrates GitHub merge commits.
+GitHub will preserve both commits when we create a merge commit.
